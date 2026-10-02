@@ -4,7 +4,7 @@
 
 ### 2nd Year IT Student | National University – Mall of Asia
 
-*Learning, building, and breaking things.*
+*Learning, building, and **breaking things**.*
 
 ![Location](https://img.shields.io/badge/Philippines-🇵🇭-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square)
